@@ -1,0 +1,38 @@
+
+
+program started, pid = 2533
+
+main is working, pid = 2533
+
+main is working, pid = 2533
+
+main is working, pid = 2533
+
+main is working, pid = 2533
+
+signal received, signo = 1
+signal number, si_signo = 1
+signal code, si_code = 0
+signal union sigval, si_value.sival_int = 68
+signal union sigval, si_value.sival_ptr = 0x44
+signal error, si_errno = 0
+signal pid, si_pid = 1646
+signal uid, si_uid = 1000
+signal addr, si_addr = 0x3e80000066e
+signal status, si_status = 68
+signal band, si_band = 4294967297646
+signal timer ID, si_timerid = 1646
+signal overrun, si_overrun = 1000
+signal utime, si_utime = 4
+signal stime, si_stime = 17179869191
+signal int, si_int = 68
+signal fd, si_fd = 68
+signal syscall, si_syscall = 68
+signal arch, si_arch = 0
+
+
+main is working, pid = 2533
+
+main is working, pid = 2533
+
+main is working, pid = 2533
