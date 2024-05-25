@@ -18,7 +18,7 @@ log files.
 9. Test the received program by sending signals to it with the kill utility, and 
 observing the output in the log file. 
 10. Explain the obtained results
-11. 
+
 Part 2. Distributed memory. Make a program that:
 
 1. Describes a datum structure that contains an integer value for a process identifier, integer 
